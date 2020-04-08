@@ -1,0 +1,5 @@
+Load balancer
+https://medium.com/@chamilad/load-balancing-and-reverse-proxying-for-kubernetes-services-f03dd0efe80
+
+Nodeport VS Ingress VS Loadbalancer
+https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
