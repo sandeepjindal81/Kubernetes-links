@@ -3,3 +3,6 @@ https://medium.com/@chamilad/load-balancing-and-reverse-proxying-for-kubernetes-
 
 Nodeport VS Ingress VS Loadbalancer
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
+
+KUBE proxy with iptables
+https://www.tigera.io/blog/comparing-kube-proxy-modes-iptables-or-ipvs/
